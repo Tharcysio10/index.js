@@ -1,5 +1,5 @@
 {
-  "name": "meu-addon-apenas-un-show",
+  "name": "index.js",
   "version": "1.0.0",
   "description": "Addon Stremio para Apenas um Show T4",
   "main": "addon.js",
