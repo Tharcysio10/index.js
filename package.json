@@ -1,10 +1,3 @@
-{
-  "name": "index.js",
-  "version": "1.0.0",
-  "description": "Addon Stremio para Apenas um Show T4",
-  "main": "addon.js",
-  "scripts": {
-    "start": "node addon.js"
   },
   "dependencies": {
     "stremio-addon-sdk": "^1.6.10"
